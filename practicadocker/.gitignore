@@ -1,0 +1,7 @@
+.vagrant/
+*.log
+.env
+__pycache__/
+.ipynb_checkpoints/
+evidencias/*.png
+evidencias/*.jpg
